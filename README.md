@@ -1,4 +1,4 @@
-# S.O
+# SO
 
 ### Autor: Pablo Agudo Brun. Universidad Complutense de Madrid
 
