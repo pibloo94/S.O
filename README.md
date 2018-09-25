@@ -1,4 +1,4 @@
-# SO
+# Sistemas Operativos
 
 ### Autores: Manuel Monforte Escobar Pablo Agudo Brun. Universidad Complutense de Madrid
 * Manuel [@manumonforte](https://github.com/manumonforte)
