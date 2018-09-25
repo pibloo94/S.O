@@ -1,6 +1,8 @@
 # SO
 
-### Autor: Pablo Agudo Brun. Universidad Complutense de Madrid
+### Autores: Manuel Monforte Escobar Pablo Agudo Brun. Universidad Complutense de Madrid
+* Manuel [@manumonforte] (https://github.com/manumonforte)
+* Pablo [@pabloagudo] (https://github.com/pibloo94/)
 
 Repositorio dedicado a compartir las practicas realizadas en la asignatura de Sistemas Operativos de la Universidad Complutense de Madrid.
 
